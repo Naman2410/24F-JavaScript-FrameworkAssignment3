@@ -27,4 +27,4 @@ Before you begin, ensure that you have the following installed on your machine:
 1. **Clone this repository** to your local machine:
 
    ```bash
-   https://github.com/Naman2410/24F-JavaScript-FrameworkAssignment3s.git
+https://github.com/Naman2410/24F-JavaScript-FrameworkAssignment3.git
