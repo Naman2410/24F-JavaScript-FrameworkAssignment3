@@ -19,12 +19,12 @@ Follow the steps below to set up and run the project locally.
 
 Before you begin, ensure that you have the following installed on your machine:
 
-- **[Node.js](https://nodejs.org/)** (version 12 or higher)
-- **npm** (Node Package Manager) - comes with Node.js
+- **[Node.js](https://nodejs.org/)
+- **npm** (Node Package Manager)
 
 ### Installation Steps
 
 1. **Clone this repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   https://github.com/Naman2410/24F-JavaScript-FrameworkAssignment3s.git
