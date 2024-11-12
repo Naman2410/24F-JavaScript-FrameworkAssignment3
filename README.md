@@ -1,4 +1,4 @@
-# 24F-JavaScript-FrameworkAssignment3s
+# 24F-JavaScript-FrameworkAssignment3
 
 ## Overview
 
